@@ -1,0 +1,5 @@
+# The core prototype (project4.py) needs NO third-party packages.
+# Optional extras:
+pypdf>=4.0           # scan .pdf files
+pytesseract>=0.3.10  # scan images (also needs the Tesseract OCR program installed)
+pillow>=10.0         # image loading for OCR
